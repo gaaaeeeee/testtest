@@ -1,0 +1,10 @@
+footer {
+  background-color: #111;
+}
+
+.is-hover:hover{
+  transform: translate(100px, 50px);
+  transition: 0.25s;
+  transform: scale(1.1);
+  opacity:0.45;
+}
